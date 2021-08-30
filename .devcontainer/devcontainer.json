@@ -1,5 +1,5 @@
 {
-  "name": "CodeChica/plus-plus",
+  "name": "CodeChica/SparkleHub",
   "build": {
     "dockerfile": "Dockerfile"
   },
