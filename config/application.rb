@@ -15,5 +15,6 @@ module CodeChica
     config.load_defaults 6.1
     config.generators.system_tests = nil
     config.logger = Logger.new(STDOUT)
+    config.hosts << ".githubpreview.dev"
   end
 end
